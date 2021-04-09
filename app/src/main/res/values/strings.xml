@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gaan</string>
+    <string name="gaan">Gaan</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="agree_to_terms_and_conditions">Agree to terms and conditions</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
